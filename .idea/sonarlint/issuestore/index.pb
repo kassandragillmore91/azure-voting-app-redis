@@ -7,3 +7,5 @@ P
  azure-vote-all-in-one-redis.yaml,c/f/cf7196a7b66237236778c63424e6d1869fc50f4f
 ;
 Jenkinsfile,0/c/0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
+C
+docker-compose.yaml,e/f/ef8def03dc8f162799089e9b5f4321201c8810d5
