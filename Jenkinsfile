@@ -1,7 +1,5 @@
 pipeline {
-   agent {
-     label 'ubuntu-zion'
-   }
+   agent any
 
    stages {
       stage('Verify Branch') {
